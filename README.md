@@ -2,5 +2,5 @@
 
 This python program visualizes Binary Search Tree and its operations using graphviz library
 
-![Test Image 4](https://github.com/tograh/testrepository/3DTest.png)
+![BST Same View](https://github.com/sengorajkumar/BST-Visualization/blob/master/BSTAfterDelete.png)
 
