@@ -4,6 +4,8 @@ This python program visualizes Binary Search Tree and its operations using graph
 
 ###### BST Sample view
 
-![BST Sample View](https://github.com/sengorajkumar/BST-Visualization/blob/master/BSTAfterDelete.png)
+https://github.com/sengorajkumar/BST-Visualization/blob/master/InitialBST.png
 
 ###### BST after deleting node 6
+
+https://github.com/sengorajkumar/BST-Visualization/blob/master/BSTAfterDelete.png
