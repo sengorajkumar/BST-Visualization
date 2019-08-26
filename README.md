@@ -1,6 +1,6 @@
 # BST-Visualization
 
-This python program visualizes Binary Search Tree and its operations using graphviz library. This can be used to visually explain the BST data strucutre, its properties and operations. An example of tree inserts and deletion of a particular node is given below.
+This python program visualizes Binary Search Tree and its operations using graphviz library. This can be used to visually explain the BST data strucutre, its properties and operations. An example of tree inserts and deletion is given below.
 
 ###### BST Sample view
 
